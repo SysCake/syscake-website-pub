@@ -1,0 +1,29 @@
+# Syscake
+
+> Syscake designs and builds software with artificial intelligence at its core: AI agents, LLM integration, on-device models, web and mobile products, blockchain and scientific platforms. Rome, Italy.
+
+## Products
+- [Chroniq](https://new.syscake.it/products/chroniq/): Your meetings, kept close.
+- [SWE Foundry](https://new.syscake.it/products/swe-foundry/): Your coding agent, with an engineering memory.
+- [RideWeave](https://new.syscake.it/products/rideweave/): A shared voice for the ride.
+- [Videat](https://new.syscake.it/products/videat/): Where to eat, as told by video reviews.
+- [Morsiqo](https://new.syscake.it/products/morsiqo/): An AI agent that takes the order — and sees it through.
+- [Meat Puppets](https://new.syscake.it/products/meat-puppets/): Brainless bodies. Absurd weapons. Bored trillionaires.
+
+## Services
+- [Applied AI](https://new.syscake.it/services/applied-ai/): AI strategy, agents, LLM integration, voice and avatars, private models, evaluations and training.
+- [Product engineering](https://new.syscake.it/services/product-engineering/): Web apps, native and cross-platform mobile, scalable backends and cloud — and real-time 3D when it calls for it.
+- [Blockchain & digital identity](https://new.syscake.it/services/blockchain-digital-identity/): Smart contracts on EVM chains and Algorand, self-sovereign identity, verifiable credentials and notarization.
+- [Data, science & IoT](https://new.syscake.it/services/data-science-iot/): Real-time and geospatial platforms, monitoring, sensors and offline networks — built with scientists.
+
+## Selected work
+- [A real-time AI tutor for public-sector training](https://new.syscake.it/work/mim-ai-tutor/): Ministry of Education and Merit
+- [Early-Est: tsunami forecasting platform](https://new.syscake.it/work/ingv-early-est/): INGV
+- [BEA: browsing and managing seismic events](https://new.syscake.it/work/ingv-bea/): INGV
+- [Self-sovereign identity, in production](https://new.syscake.it/work/ssi-national-network/): National blockchain network
+- [Generative AI for catalog storytelling](https://new.syscake.it/work/damiani-genai/): Damiani
+- [A web and mobile platform for creating events](https://new.syscake.it/work/snap-and-go/): Snap&Go
+
+## Contact
+- Email: info@syscake.it
+- Italian version: https://new.syscake.it/it/
