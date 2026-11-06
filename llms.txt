@@ -7,8 +7,8 @@
 - [SWE Foundry](https://new.syscake.it/products/swe-foundry/): Your coding agent, with an engineering memory.
 - [RideWeave](https://new.syscake.it/products/rideweave/): A shared voice for the ride.
 - [Videat](https://new.syscake.it/products/videat/): Where to eat, as told by video reviews.
-- [Morsiqo](https://new.syscake.it/products/morsiqo/): An AI agent that takes the order — and sees it through.
 - [Meat Puppets](https://new.syscake.it/products/meat-puppets/): Brainless bodies. Absurd weapons. Bored trillionaires.
+- [Morsiqo](https://new.syscake.it/products/morsiqo/): An AI agent that takes the order — and sees it through.
 
 ## Services
 - [Applied AI](https://new.syscake.it/services/applied-ai/): AI strategy, agents, LLM integration, voice and avatars, private models, evaluations and training.
